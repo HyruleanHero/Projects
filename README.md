@@ -1,1 +1,2 @@
-this is a thing.
+This will be a folder where I put miscellaneous digitally replicated objects, I will try and do as many as I can and stay consistent but we'll see. 
+
