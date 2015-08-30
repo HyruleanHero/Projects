@@ -5,7 +5,7 @@
 
 //Goal of program is to show how to structure an animation inopenscad 
 
-//gif of the motion to be reproduced can be seen here. (insert @sambashor tweet here.)
+//gif of the motion to be reproduced can be seen here. (https://pbs.twimg.com/tweet_video/CNoCFfkUAAAXShf.mp4.)
 
 
 // Module variable overview. 
